@@ -7,3 +7,5 @@ Pour l'utiliser il vous faut avoir installer XAMMP et POSTMAN, puis de placer le
 
 Vous pouvez ensuite effectuer les requetes via POSTMAN en utilisant le lien vers l'api suivant:
 localhost/ServeurREST.php
+
+Remarque: le mot de passe des utilisateurs dans la base de données est "1234"
